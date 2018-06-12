@@ -74,8 +74,8 @@ input[type="radio"]:hover + label {
 	transition: .1s;
 }
 .operations {
-	width: 250px;
-	background-color:red;
+	width: 2500px;
+	background:red;
 }
 
 .operation {
