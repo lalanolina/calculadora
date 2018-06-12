@@ -10,9 +10,9 @@ document.getElementById("calculate-button").onclick = function(){
 	let choice = document.querySelector('input[name="operation"]:checked')
 	let operation = choice.value;
 	
-	console.log(val1);
-	console.log(val2);
-	console.log(operation);
+	//console.log(val1);
+	//console.log(val2);
+	//console.log(operation);
 	
 	let operationResult = getResult(val1,val2,operation);
 	
